@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+hello this is my first commit(changes)
+
+hope you like it
